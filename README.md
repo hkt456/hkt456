@@ -1,8 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/5659221/27191733-5b3d7b3e-51be-11e7-8412-dc030794ad88.png)](https://hkt456.me/)
 <h1 align="center">Hi 👋, I'm Huỳnh Khắc Tâm</h1>
-<h3 align="center">A passionate developer from Viet Name</h3>
+<h3 align="center">A passionate developer from Viet Nam</h3>
 
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkt456&label=Profile%20views&color=0e75b6&style=flat" alt="hkt456" /> </p>
