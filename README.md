@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkt456" alt="hkt456" /></a> </p> -->
 
-- 🔭 I’m currently working on **Threejs Website and Natural Language Processing Reasearch**
+- 🔭 I’m currently working on **Website Development and Natural Language Processing Reasearch**
 
 - 🌱 I’m currently learning **Algorithms, Machine Translation, Backend development**
 
-- 👯 I’m looking to collaborate on **Frontend development, AI machines**
+- 👯 I’m looking to collaborate on **Frontend development, AI Research**
 
 - 👨‍💻 All of my information are available at [https://hkt456.me/](https://hkt456.me/)
 
