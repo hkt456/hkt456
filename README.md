@@ -8,9 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkt456" alt="hkt456" /></a> </p> -->
 
-- 🔭 I’m currently working on **Website Development and Natural Language Processing Reasearch**
+- 🔭 I’m currently working on **Website Development, Natural Language Processing Reasearch, and Computer Vision**
 
 - 🌱 I’m currently learning **Algorithms, Machine Translation, Backend development**
+
+- 🔭 I love reimplementing popular models for experiments
 
 - 👯 I’m looking to collaborate on **Frontend development, AI Research**
 
